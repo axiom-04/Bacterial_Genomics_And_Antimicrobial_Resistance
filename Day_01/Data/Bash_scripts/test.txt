@@ -1,0 +1,17 @@
+Kernel: integeted part of OS and computer program 
+
+Unix operating system 
+
+In the windows there we use graphical user interface. 
+
+ Linux: 
+
+Shell: 
+
+Bourne shell (sh), korn shell (kch), bourne again shell (bash) 
+
+sudo apt-get install cmatrix : software er naam cmatrix 
+
+Sudo : super user do 
+
+apt-get : making the connection to the repository 
